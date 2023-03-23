@@ -1,3 +1,5 @@
+import time
+
 from Game import TicTacToe, print_board_nums
 from Players import Player
 
